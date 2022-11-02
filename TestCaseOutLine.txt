@@ -1,0 +1,7 @@
+1. Create BeforeTest and After TEst
+2. Write a script to login in @BeforeTest.
+@BeforeTest - Login in class
+@Test - main method
+@AfterTest - Logout, driver.close();
+
+ dashboards to ensure you know how your business is performing on the metrics that matter most.
